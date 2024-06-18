@@ -46,8 +46,8 @@ Ensure you have the following components:
 
 ## Software Architecture
 
-1. **Software Architecture Flow Chart**
-   A flow chart of the software architecture is shown below.
+1. **Software Architecture Flow Chart:**
+    A flow chart of the software architecture is shown below.
    
 ![software arch](https://github.com/ylu149/Embedded_System_Air_Quality_Sensor/assets/112204184/a5f95f39-af2f-4622-95ce-f29a2f5ae449)
 
