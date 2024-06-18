@@ -1,9 +1,3 @@
-## Credit
-Credit for bme680.c , bme680.h & bme680_defs goes to Bosch Sensortec. (Code was pulled off their official GitHub) 
-
-Bosch Sensortec. (2016, June 22). *BME680 Sensor API*. GitHub. Retrieved from
-https://github.com/boschsensortec/BME680_SensorAPI
-
 # Portable Air Quality Monitoring Device Setup Instructions
 
 This guide will help you set up your Portable Air Quality Monitoring Device based on the BeagleBone platform, which is equipped to monitor temperature, humidity, atmospheric pressure, and IAQ (Indoor Air Quality Index). The device utilizes a BeagleBone Black, BME680 sensor, and LCD screen, along with color-coded LEDs to indicate air quality.
@@ -54,7 +48,15 @@ Ensure you have the following components:
 
 1. **Software Architecture Flow Chart**
    A flow chart of the software architecture is shown below.
+   
 ![software arch](https://github.com/ylu149/Embedded_System_Air_Quality_Sensor/assets/112204184/a5f95f39-af2f-4622-95ce-f29a2f5ae449)
+
+## Credit
+Credit for bme680.c , bme680.h & bme680_defs goes to Bosch Sensortec. (Code was pulled off their official GitHub) 
+
+Bosch Sensortec. (2016, June 22). *BME680 Sensor API*. GitHub. Retrieved from
+https://github.com/boschsensortec/BME680_SensorAPI
+
 
 
 
