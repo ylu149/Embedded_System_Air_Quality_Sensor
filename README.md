@@ -1,10 +1,4 @@
-# Note for Video 
-
-The video exceeded 100 MB (Github's maximum file size limit) and couldn't be pushed onto Github. Please use the YouTube link below to see the demo for the project.
-
-https://www.youtube.com/watch?v=y9pn7zzBPrc
-
-# EC-535 Portable Air Quality Monitoring Device Setup Instructions
+# Portable Air Quality Monitoring Device Setup Instructions
 
 This guide will help you set up your Portable Air Quality Monitoring Device based on the BeagleBone platform, equipped to monitor temperature, humidity, atmospheric pressure, and IAQ (Indoor Air Quality Index). The device utilizes a BeagleBone Black, BME680 sensor, and LCD screen, along with color-coded LEDs to indicate air quality.
 
